@@ -1,6 +1,6 @@
 #include <catch2/catch_test_macros.hpp>
 
-#include "../board/board.hpp"
+#include "board.hpp"
 
 TEST_CASE("Is column clogged?", "[iscolumnclogged]")
 {

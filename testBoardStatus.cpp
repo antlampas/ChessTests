@@ -3,7 +3,7 @@
 #include <vector>
 #include <string>
 #include <typeinfo>
-#include "../board/board.hpp"
+#include "board.hpp"
 
 TEST_CASE("Board Status actually returns board status", "[boardstatus]")
 {

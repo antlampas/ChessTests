@@ -1,7 +1,7 @@
 #include <catch2/catch_test_macros.hpp>
 
 #include <string>
-#include "../board/board.hpp"
+#include "board.hpp"
 
 TEST_CASE("Get piece in square", "[getpieceinsquare]")
 {
@@ -13,4 +13,3 @@ TEST_CASE("Get piece in square", "[getpieceinsquare]")
             CHECK((piece == "e" || piece == "wp" || piece == "wr" || piece == "wn" || piece == "wb" || piece == "wk" || piece == "wq" || piece == "bp" || piece == "br" || piece == "bn" || piece == "bb" || piece == "bk" || piece == "bq"));
         }
 }
-

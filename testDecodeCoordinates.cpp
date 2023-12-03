@@ -4,7 +4,7 @@
 #include <string>
 #include <utility>
 #include <iostream>
-#include "../board/board.hpp"
+#include "board.hpp"
 
 TEST_CASE("Decode Coordinates", "[decodecoordinates]")
 {
