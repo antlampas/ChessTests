@@ -6,5 +6,16 @@ TEST_CASE("Is coordinate valid?", "[iscoordinatevalid]")
 {
     board b;
 
-    CHECK(false);
+    std::vector<std::string> validCoordinates;
+    //std::vector<std::string> notValidCoordinates;
+
+    for(int i=0;i<8;i++)
+        for(int j=0;j<8;j++)
+        {
+            const char& column = char(i+97);
+            const char& row    = char(j+49);
+            validCoordinates.push_back(std::string(1,column)+std::string(1,row));
+
+            CHECK(b.isCoordinateValid(validCoordinates.at(i+j)) == true);
+        }
 }
