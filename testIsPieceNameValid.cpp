@@ -6,5 +6,7 @@ TEST_CASE("Is piece name valid?", "[ispiecenamevalid]")
 {
     board b;
 
+    //TODO: Design and Implement
+    
     CHECK(false);
 }

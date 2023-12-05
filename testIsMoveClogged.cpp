@@ -6,5 +6,7 @@ TEST_CASE("Is move clogged?", "[ismoveclogged]")
 {
     board b;
 
+    //TODO: Design and Implement
+    
     CHECK(false);
 }

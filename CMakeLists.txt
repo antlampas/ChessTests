@@ -1,4 +1,12 @@
+cmake_minimum_required(VERSION 3.15)
+
+project(ChessTests)
+
 find_package(Catch2 3 REQUIRED)
+
+if (NOT CMAKE_BUILD_TYPE)
+  set(CMAKE_BUILD_TYPE "Release")
+endif (NOT CMAKE_BUILD_TYPE)
 
 add_executable(tests
                 testBoard.cpp

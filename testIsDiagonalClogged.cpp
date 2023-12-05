@@ -6,5 +6,7 @@ TEST_CASE("Is diagonal clogged?", "[isdiagonalclogged]")
 {
     board b;
     
+    //TODO: Design and Implement
+    
     CHECK(false);
 }

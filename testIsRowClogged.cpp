@@ -6,5 +6,7 @@ TEST_CASE("Is row clogged", "[isrowclogged]")
 {
     board b;
 
+    //TODO: Design and Implement
+    
     CHECK(false);
 }
