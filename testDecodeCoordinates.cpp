@@ -15,10 +15,20 @@ TEST_CASE("Decode Coordinates", "[decodecoordinates]")
     for(int i=0;i<8;i++)
         for(int j=0;j<8;j++)
         {
-            const char& column = char(i+97);
-            const char& row    = char(j+49);
+            const char& row    = char(i+49);
+            const char& column = char(j+97);
             coordinates.push_back(std::string(1,column)+std::string(1,row));
-            
-            CHECK((b.decodeCoordinates(coordinates.at(i+j))) == (std::pair<int,int>(i,j)));
         }
+    
+    std::vector<std::string>::iterator c = coordinates.begin();
+
+    for(int i=0;i<8;i++)
+        for(int j=0;j<8;j++)
+            if(c!= coordinates.end())
+            {
+                std::pair<int,int> decodedCoordinates {b.decodeCoordinates(*c)};
+                std::pair<int,int> checkCoordinates {i,j};
+                c++;
+                CHECK(((decodedCoordinates.first == checkCoordinates.first) && (decodedCoordinates.second == checkCoordinates.second)) == true);
+            }
 }

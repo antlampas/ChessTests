@@ -19,7 +19,7 @@ TEST_CASE("Is column clogged?", "[iscolumnclogged]")
             coordinates.push_back(std::string(1,column)+std::string(1,row));
         }
 
-        //TODO: Da progettare
+        //TODO: Design and Implement
         
         CHECK(false);
 }
