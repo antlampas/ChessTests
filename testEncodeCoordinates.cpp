@@ -15,11 +15,7 @@ TEST_CASE("Encode Coordinates", "[encodecoordinates]")
         for(auto j: {0,1,2,3,4,5,6,7})
             CHECK(b.encodeCoordinates(std::pair<int,int>(i,j)) == std::string(1,columnNames.at(j)).append(1,char(i+49)));
 
-//     CHECK(b.encodeCoordinates(std::pair<int,int>(0,0)) == "a1");
-//     CHECK(b.encodeCoordinates(std::pair<int,int>(0,1)) == "b1");
-//     CHECK(b.encodeCoordinates(std::pair<int,int>(1,0)) == "a2");
-//     CHECK(b.encodeCoordinates(std::pair<int,int>(1,1)) == "b2");
-//     CHECK(b.encodeCoordinates(std::pair<int,int>(9,9)) == "");
-//     CHECK(b.encodeCoordinates(std::pair<int,int>(0,9)) == "");
-//     CHECK(b.encodeCoordinates(std::pair<int,int>(9,0)) == "");
+    for(auto i: {9,10,11,12,13,14,15,16})
+        for(auto j: {9,10,11,12,13,14,15,16})
+            CHECK(b.encodeCoordinates(std::pair<int,int>(i,j)) == "");
 }
