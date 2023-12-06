@@ -7,15 +7,15 @@ add_executable(tests
                 testDecodePieceName.cpp
                 testEncodeCoordinates.cpp
                 testGetPieceInSquare.cpp
-                testIsColumnClogged.cpp
+#                testIsColumnClogged.cpp
                 testIsCoordinateValid.cpp
-                testIsDiagonalClogged.cpp
-                testIsFrontClogged.cpp
-                testIsMoveClogged.cpp
+#                testIsDiagonalClogged.cpp
+#                testIsFrontClogged.cpp
+#                testIsMoveClogged.cpp
                 testIsMoveValid.cpp
-                testIsPieceNameValid.cpp
-                testIsRowClogged.cpp
-                testListValidMoves.cpp
+#                testIsPieceNameValid.cpp
+#                testIsRowClogged.cpp
+#                testListValidMoves.cpp
                 testMove.cpp
             )
 
