@@ -5,6 +5,7 @@ add_executable(tests
                 testBoardStatus.cpp
                 testDecodeCoordinates.cpp
                 testDecodePieceName.cpp
+                testEncodeCoordinates.cpp
                 testGetPieceInSquare.cpp
                 testIsColumnClogged.cpp
                 testIsCoordinateValid.cpp
