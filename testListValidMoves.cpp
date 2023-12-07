@@ -35,6 +35,9 @@ TEST_CASE("List Valid Moves", "[listvalidmoves]")
                                 std::cout << move << " ";
                             std::cout << std::endl << std::endl;
                         }
-                        CHECK(!validMoves.empty());
+                        if(!(piece == "p" && row == "8"))
+                            CHECK(!validMoves.empty());
+                        else
+                            CHECK(validMoves.empty());
                     }
 }
