@@ -2,7 +2,7 @@
 
 #include "board.hpp"
 
-TEST_CASE("Is front clogged?", "[isfrontclogged]")
+TEST_CASE("Is Front Clogged?", "[isfrontclogged]")
 {
     board b;
 

@@ -2,7 +2,7 @@
 
 #include "board.hpp"
 
-TEST_CASE("Is piece name valid?", "[ispiecenamevalid]")
+TEST_CASE("Is Piece Name Valid?", "[ispiecenamevalid]")
 {
     board b;
 

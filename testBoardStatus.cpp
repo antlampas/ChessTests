@@ -5,7 +5,7 @@
 #include <typeinfo>
 #include "board.hpp"
 
-TEST_CASE("Board Status actually returns board status", "[boardstatus]")
+TEST_CASE("Board status", "[boardstatus]")
 {
     board b;
 

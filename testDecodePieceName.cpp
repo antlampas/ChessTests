@@ -6,7 +6,7 @@
 #include <utility>
 #include "board.hpp"
 
-TEST_CASE("Decode piece name", "[decodepiecename]")
+TEST_CASE("Decode Piece Name", "[decodepiecename]")
 {
     using inBoardPieceType = std::vector<std::string>;
     using PieceType        = std::vector<char>;

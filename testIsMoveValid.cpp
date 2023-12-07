@@ -2,7 +2,7 @@
 
 #include "board.hpp"
 
-TEST_CASE("Is move valid?", "[ismovevalid]")
+TEST_CASE("Is Move Valid?", "[ismovevalid]")
 {
     board b;
     

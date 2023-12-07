@@ -2,7 +2,7 @@
 
 #include "board.hpp"
 
-TEST_CASE("Is coordinate valid?", "[iscoordinatevalid]")
+TEST_CASE("Is Coordinate Valid?", "[iscoordinatevalid]")
 {
     board b;
 

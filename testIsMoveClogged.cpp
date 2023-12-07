@@ -2,7 +2,7 @@
 
 #include "board.hpp"
 
-TEST_CASE("Is move clogged?", "[ismoveclogged]")
+TEST_CASE("Is Move Clogged?", "[ismoveclogged]")
 {
     board b;
 

@@ -3,7 +3,7 @@
 #include <string>
 #include "board.hpp"
 
-TEST_CASE("Get piece in square", "[getpieceinsquare]")
+TEST_CASE("Get Piece In Square", "[getpieceinsquare]")
 {
     board b;
 

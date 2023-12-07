@@ -5,7 +5,7 @@
 #include <utility>
 #include "board.hpp"
 
-TEST_CASE("Is column clogged?", "[iscolumnclogged]")
+TEST_CASE("Is Column Clogged?", "[iscolumnclogged]")
 {
     board b;
 

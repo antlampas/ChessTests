@@ -2,7 +2,7 @@
 
 #include "board.hpp"
 
-TEST_CASE("Is row clogged", "[isrowclogged]")
+TEST_CASE("Is Row Clogged", "[isrowclogged]")
 {
     board b;
 

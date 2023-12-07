@@ -6,7 +6,7 @@
 #include <algorithm>
 #include "board.hpp"
 
-TEST_CASE("Board initialization", "[boardinit]")
+TEST_CASE("Board constructor", "[boardconstructor]")
 {
     using boardType = std::vector<std::vector<std::string>>;
 

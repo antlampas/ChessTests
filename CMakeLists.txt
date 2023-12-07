@@ -15,7 +15,7 @@ add_executable(tests
                 testIsMoveValid.cpp
 #                testIsPieceNameValid.cpp
 #                testIsRowClogged.cpp
-#                testListValidMoves.cpp
+                testListValidMoves.cpp
                 testMove.cpp
             )
 
