@@ -34,6 +34,9 @@ TEST_CASE("List Valid Moves", "[listvalidmoves]")
 
                         if(!validMoves.empty())
                         {
+                            std::cout << "Coordinates: " << coordinates << std::endl;
+                            std::cout << "Piece: " this->getPieceInSquare(coordinates) << std::endl;
+                            std::cout << "Valid Moves: ";
                             for(auto move: validMoves)
                                 std::cout << move << " ";
                             std::cout << std::endl;
