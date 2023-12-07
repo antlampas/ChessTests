@@ -7,47 +7,38 @@
 
 TEST_CASE("List Valid Moves", "[listvalidmoves]")
 {
-    std::vector<std::vector<std::string>> testingBoard(8,std::vector<std::string>(8,"e"));
-
-    for(auto row: {"1","2","3","4","5","6","7","8"})
-        for(auto column: {"a","b","c","d","e","f","g","h"})
-            for(auto team: {"w","b"})
-                for(auto piece: {"p","r","n","b","k","q"})
-                {
-                    testingBoard.at(row).at(column) = team+piece;
-                    
-                    board b(testingBoard);
-
-                    std::string coordinates = column+row;
-
-                    int rowIndex    = int(row)    - 49;
-                    int columnIndex = int(column) - 97;
-
-                    std::vector<std::string> validMoves = b.listValidMoves(coordinates);
-
-                    if(!validMoves.empty())
+        for(auto row: {"1","2","3","4","5","6","7","8"})
+            for(auto column: {"a","b","c","d","e","f","g","h"})
+                for(auto team: {"w","b"})
+                    for(auto piece: {"p","r","n","b","k","q"})
                     {
-                        for(auto move: validMoves)
-                            std::cout << move << " ";
-                        std::cout << std::endl;
+                        std::vector<std::vector<std::string>> testingBoard(8,std::vector<std::string>(8,"e"));
+                        std::string coordinates = std::string(column)+std::string(row);
+
+                        int rowIndex    = int(row[0])    - 49;
+                        int columnIndex = int(column[0]) - 97;
+
+                        testingBoard.at(rowIndex).at(columnIndex) = std::string(team)+std::string(piece);
+                        
+                        // for(auto r: testingBoard)
+                        //     {
+                        //         for(auto c: r)
+                        //             std::cout << c << " ";
+                        //         std::cout << std::endl;
+                        //     }
+                        // std::cout << std::endl;
+
+                        board b(testingBoard);
+
+                        std::vector<std::string> validMoves = b.listValidMoves(coordinates);
+
+                        if(!validMoves.empty())
+                        {
+                            for(auto move: validMoves)
+                                std::cout << move << " ";
+                            std::cout << std::endl;
+                        }
+
+                        CHECK(!validMoves.empty());
                     }
-                    CHECK(!validMoves.empty());
-                }
-        
-
-
-
-    // board b;
-
-    // for(auto coordinates: {"a2","b2","c2","d2","e2","f2","g2","h2"})
-    // {
-    //     std::vector<std::string> validMoves = b.listValidMoves(coordinates);
-    //     if(!validMoves.empty())
-    //     {
-    //         for(auto move: validMoves)
-    //             std::cout << move << " ";
-    //         std::cout << std::endl;
-    //     }
-    //     CHECK(!validMoves.empty());
-    }
 }
