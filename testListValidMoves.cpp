@@ -18,23 +18,23 @@ TEST_CASE("List Valid Moves", "[listvalidmoves]")
                         int rowIndex    = int(row[0])    - 49;
                         int columnIndex = int(column[0]) - 97;
 
-                        std::cout << "rowIndex: " << rowIndex << std::endl << "columnIndex: " << columnIndex << std::endl << std::endl;
-                        // testingBoard.at(rowIndex).at(columnIndex) = std::string(team)+std::string(piece);
+                        // std::cout << "rowIndex: " << rowIndex << std::endl << "columnIndex: " << columnIndex << std::endl << std::endl;
+                        testingBoard.at(rowIndex).at(columnIndex) = std::string(team)+std::string(piece);
 
-                        // board b(testingBoard);
+                        board b(testingBoard);
 
-                        // std::cout << "Coordinates: " << coordinates << std::endl;
-                        // std::cout << "Piece: " << b.getPieceInSquare(coordinates) << std::endl;
+                        std::cout << "Coordinates: " << coordinates << std::endl;
+                        std::cout << "Piece: " << b.getPieceInSquare(coordinates) << std::endl;
                         
-                        // std::vector<std::string> validMoves = b.listValidMoves(coordinates);
+                        std::vector<std::string> validMoves = b.listValidMoves(coordinates);
                         
-                        // if(!validMoves.empty())
-                        // {
-                        //     std::cout << "Valid Moves: ";
-                        //     for(auto move: validMoves)
-                        //         std::cout << move << " ";
-                        //     std::cout << std::endl << std::endl;
-                        // }
-                        // CHECK(!validMoves.empty());
+                        if(!validMoves.empty())
+                        {
+                            std::cout << "Valid Moves: ";
+                            for(auto move: validMoves)
+                                std::cout << move << " ";
+                            std::cout << std::endl << std::endl;
+                        }
+                        CHECK(!validMoves.empty());
                     }
 }
