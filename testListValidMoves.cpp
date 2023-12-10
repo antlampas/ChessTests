@@ -51,8 +51,7 @@ TEST_CASE("List Valid Moves", "[listvalidmoves]")
             {
                 std::string coordinates {std::string(column)+std::string(row)};
                 std::string p {b.getPieceInSquare(coordinates)};
-                std::vector<std::string> validMoves {};
-                std::swap(validMoves,b.listValidMoves(coordinates));
+                std::vector<std::string> validMoves {std::move(b.listValidMoves(coordinates))};
 
                 if(p != "e")
                 {
