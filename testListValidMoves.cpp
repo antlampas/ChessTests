@@ -53,10 +53,10 @@ TEST_CASE("List Valid Moves", "[listvalidmoves]")
             {
                 std::string coordinates = std::string(column)+std::string(row);
                 std::vector<std::string> validMoves = b.listValidMoves(coordinates);
-                std::string team  = b.getPieceInSquare(coordinates).at(0);
-                std::string piece = b.getPieceInSquare(coordinates).at(1);
+                char team  = b.getPieceInSquare(coordinates).at(0);
+                char piece = b.getPieceInSquare(coordinates).at(1);
 
-                if(!(team == "w" && piece == "p" && row == "8") && !(team == "b" && piece == "p" && row == "1"))
+                if(!(team == 'w' && piece == 'p' && row == "8") && !(team == 'b' && piece == 'p' && row == "1"))
                     CHECK(!validMoves.empty());
                 else
                     CHECK(validMoves.empty());
