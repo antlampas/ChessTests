@@ -50,6 +50,7 @@ TEST_CASE("List Valid Moves", "[listvalidmoves]")
             for(auto column: {"a","b","c","d","e","f","g","h"})
             {
                 std::string coordinates {std::string(column)+std::string(row)};
+                std::vector<std::string> validMoves {b.listValidMoves(coordinates)};
                 std::string p {b.getPieceInSquare(coordinates)};
                 
                 std::cout << p << std::endl;
@@ -58,7 +59,6 @@ TEST_CASE("List Valid Moves", "[listvalidmoves]")
                 {
                     char team  {p.at(0)};
                     char piece {p.at(1)};
-                    std::vector<std::string> validMoves {b.listValidMoves(coordinates)};
 
                     if(!(team == 'w' && piece == 'p' && row == "8") && !(team == 'b' && piece == 'p' && row == "1"))
                         CHECK(!validMoves.empty());
