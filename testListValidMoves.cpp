@@ -53,8 +53,7 @@ TEST_CASE("List Valid Moves", "[listvalidmoves]")
                 std::string coordinates {std::string(column)+std::string(row)};
                 std::string p {b.getPieceInSquare(coordinates)};
                 
-                std::cout << typeid(b.listValidMoves(coordinates)).name() << std::endl;
-                std::cout << p << std::endl;
+                std::cout << b.listValidMoves(coordinates).size() << std::endl;
 
                 if(p != "e")
                 {
