@@ -8,8 +8,6 @@
 
 TEST_CASE("Board constructor", "[boardconstructor]")
 {
-    using boardType = std::vector<std::vector<std::string>>;
-
     std::random_device r;
     std::mt19937 g(r());
 
@@ -19,10 +17,10 @@ TEST_CASE("Board constructor", "[boardconstructor]")
 
     std::shuffle(pieces.begin(),pieces.end(),g);
 
-    boardType randomBoard = boardMapType(8,std::vector<std::string>(8,std::string("e")));
+    boardMapType randomBoard = boardMapType(8,std::vector<std::string>(8,std::string("e")));
 
     for(auto p: pieces)
-        randomBoard.at(r()%8).at(r()%32) = p;
+        randomBoard.at(r()%8).at(r()%8) = p;
 
     board b;
     board c(randomBoard);
