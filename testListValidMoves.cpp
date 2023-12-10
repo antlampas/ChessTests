@@ -39,12 +39,12 @@ TEST_CASE("List Valid Moves", "[listvalidmoves]")
 
         std::shuffle(pieces.begin(),pieces.end(),g);
 
-        boardMapType randomBoard {boardMapType(8,std::vector<std::string>(8,std::string("e")))};
+        boardMapType testingBoard {boardMapType(8,std::vector<std::string>(8,std::string("e")))};
 
         for(auto p: pieces)
-            randomBoard.at(r()%8).at(r()%8) = p;
+            testingBoard.at(r()%8).at(r()%8) = p;
 
-        board b(randomBoard);
+        board b(testingBoard);
 
         for(auto row: {"1","2","3","4","5","6","7","8"})
             for(auto column: {"a","b","c","d","e","f","g","h"})
@@ -57,7 +57,6 @@ TEST_CASE("List Valid Moves", "[listvalidmoves]")
                 {
                     char team  {p.at(0)};
                     char piece {p.at(1)};
-                    //std::vector<std::string> validMoves {b.listValidMoves(coordinates)};
 
                     if(!(team == 'w' && piece == 'p' && row == "8") && !(team == 'b' && piece == 'p' && row == "1"))
                         CHECK(!validMoves.empty());

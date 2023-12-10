@@ -4,9 +4,9 @@
 
 TEST_CASE("Is Row Clogged", "[isrowclogged]")
 {
+    boardMapType testingBoard {boardMapType(8,std::vector<std::string>(8,std::string("e")))};
+    
     board b;
 
-    //TODO: Design and Implement
-    
     CHECK(false);
 }
