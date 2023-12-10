@@ -51,6 +51,7 @@ TEST_CASE("List Valid Moves", "[listvalidmoves]")
         for(auto row: {"1","2","3","4","5","6","7","8"})
             for(auto column: {"a","b","c","d","e","f","g","h"})
             {
+                std::string coordinates = std::string(column)+std::string(row);
                 std::vector<std::string> validMoves = b.listValidMoves(coordinates);
                 char team  = b.getPieceInSquare(coordinates).at(0);
                 char piece = b.getPieceInSquare(coordinates).at(1);
