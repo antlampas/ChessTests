@@ -5,7 +5,6 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include <typeinfo>
 #include "board.hpp"
 
 TEST_CASE("List Valid Moves", "[listvalidmoves]")
@@ -53,7 +52,7 @@ TEST_CASE("List Valid Moves", "[listvalidmoves]")
                 std::string coordinates {std::string(column)+std::string(row)};
                 std::string p {b.getPieceInSquare(coordinates)};
                 std::vector<std::string> validMoves {};
-                validMoves = b.listValidMoves(coordinates);
+                std::swap(validMoves,b.listValidMoves(coordinates));
 
                 if(p != "e")
                 {
