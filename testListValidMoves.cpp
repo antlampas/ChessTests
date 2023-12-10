@@ -52,12 +52,12 @@ TEST_CASE("List Valid Moves", "[listvalidmoves]")
                 std::string coordinates {std::string(column)+std::string(row)};
                 std::string p {b.getPieceInSquare(coordinates)};
                 std::vector<std::string> validMoves {b.listValidMoves(coordinates)};
-                
+
                 if(p != "e")
                 {
                     char team  {p.at(0)};
                     char piece {p.at(1)};
-                    std::vector<std::string> validMoves {b.listValidMoves(coordinates)};
+                    //std::vector<std::string> validMoves {b.listValidMoves(coordinates)};
 
                     if(!(team == 'w' && piece == 'p' && row == "8") && !(team == 'b' && piece == 'p' && row == "1"))
                         CHECK(!validMoves.empty());
