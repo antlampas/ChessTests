@@ -54,6 +54,7 @@ TEST_CASE("List Valid Moves", "[listvalidmoves]")
                 std::string coordinates = std::string(column)+std::string(row);
                 std::vector<std::string> validMoves = b.listValidMoves(coordinates);
                 std::string p = b.getPieceInSquare(coordinates);
+                
                 if(p != "e")
                 {
                     char team  = p.at(0);
