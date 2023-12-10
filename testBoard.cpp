@@ -22,7 +22,7 @@ TEST_CASE("Board constructor", "[boardconstructor]")
     boardType randomBoard = boardMapType(8,std::vector<std::string>(8,std::string("e")));
 
     for(auto p: pieces)
-        randomBoard.at(r()%8).at(r()%8) = p;
+        randomBoard.at(r()%8).at(r()%32) = p;
 
     board b;
     board c(randomBoard);
