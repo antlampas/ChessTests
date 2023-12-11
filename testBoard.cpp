@@ -19,7 +19,7 @@ TEST_CASE("Board constructor", "[boardconstructor]")
 
     board b;
     
-    boardMapType randomBoard = boardMapType(8,std::vector<std::string>(8,std::string("e")));
+    boardMapType randomBoard = boardMapType(8,columnType(8,squareType("e")));
 
     for(auto p: pieces)
         randomBoard.at(r()%8).at(r()%8) = p;
@@ -27,7 +27,7 @@ TEST_CASE("Board constructor", "[boardconstructor]")
     board c(randomBoard);
 
     randomBoard.clear();
-    randomBoard = boardMapType(8,std::vector<std::string>(8,std::string("e")));
+    randomBoard = boardMapType(8,columnType(8,squareType("e")));
 
     for(auto p: wrongPieces)
         randomBoard.at(r()%8).at(r()%8) = p;
@@ -36,19 +36,19 @@ TEST_CASE("Board constructor", "[boardconstructor]")
 
     boardMapType currentBoard = b.boardStatus();
 
-    std::for_each(currentBoard.begin(),currentBoard.end(),[](columnType column){std::for_each(column.begin(),column.end(),[](squareType square){square!="e" ? std::cout << square << " " : std::cout << square << "  ";}); std::cout << std::endl;});
+    std::for_each(currentBoard.rbegin(),currentBoard.rend(),[](columnType column){std::for_each(column.begin(),column.end(),[](squareType square){square!="e" ? std::cout << square << " " : std::cout << square << "  ";}); std::cout << std::endl;});
     
     std::cout << std::endl << std::endl;
     
     currentBoard = c.boardStatus();
     
-    std::for_each(currentBoard.begin(),currentBoard.end(),[](columnType column){std::for_each(column.begin(),column.end(),[](squareType square){square!="e" ? std::cout << square << " " : std::cout << square << "  ";}); std::cout << std::endl;});
+    std::for_each(currentBoard.rbegin(),currentBoard.rend(),[](columnType column){std::for_each(column.begin(),column.end(),[](squareType square){square!="e" ? std::cout << square << " " : std::cout << square << "  ";}); std::cout << std::endl;});
     
     std::cout << std::endl << std::endl;
 
     currentBoard = d.boardStatus();
     
-    std::for_each(currentBoard.begin(),currentBoard.end(),[](columnType column){std::for_each(column.begin(),column.end(),[](squareType square){square!="e" ? std::cout << square << " " : std::cout << square << "  ";}); std::cout << std::endl;});
+    std::for_each(currentBoard.rbegin(),currentBoard.rend(),[](columnType column){std::for_each(column.begin(),column.end(),[](squareType square){square!="e" ? std::cout << square << " " : std::cout << square << "  ";}); std::cout << std::endl;});
     
     CHECK(true);
 }

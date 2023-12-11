@@ -7,7 +7,7 @@ add_executable(tests
                 testDecodePieceName.cpp
                 testEncodeCoordinates.cpp
                 testGetPieceInSquare.cpp
-#                testIsColumnClogged.cpp
+                testIsColumnClogged.cpp
                 testIsCoordinateValid.cpp
 #                testIsDiagonalClogged.cpp
 #                testIsFrontClogged.cpp
