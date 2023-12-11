@@ -9,7 +9,7 @@ add_executable(tests
                 testGetPieceInSquare.cpp
                 testIsColumnClogged.cpp
                 testIsCoordinateValid.cpp
-#                testIsDiagonalClogged.cpp
+                testIsDiagonalClogged.cpp
 #                testIsFrontClogged.cpp
 #                testIsMoveClogged.cpp
                 testIsMoveValid.cpp
