@@ -10,8 +10,8 @@ add_executable(tests
                 testIsColumnClogged.cpp
                 testIsCoordinateValid.cpp
                 testIsDiagonalClogged.cpp
-#                testIsFrontClogged.cpp
-#                testIsMoveClogged.cpp
+                testIsFrontClogged.cpp
+                testIsMoveClogged.cpp
                 testIsMoveValid.cpp
 #                testIsPieceNameValid.cpp
 #                testIsRowClogged.cpp
