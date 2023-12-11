@@ -28,12 +28,11 @@ TEST_CASE("Is Column Clogged?", "[iscolumnclogged]")
     
 
     CHECK(b.isColumnClogged("a1","a7"));
-    CHECK(b.isColumnClogged("a1","a4"));
-    CHECK(b.isColumnClogged("a4","a7"));
     CHECK(b.isColumnClogged("d1","d7"));
-    CHECK(b.isColumnClogged("d1","d4"));
-    CHECK(b.isColumnClogged("d4","d7"));
-
+    CHECK_FALSE(b.isColumnClogged("a1","a4"));
+    CHECK_FALSE(b.isColumnClogged("a4","a7"));
+    CHECK_FALSE(b.isColumnClogged("d1","d4"));
+    CHECK_FALSE(b.isColumnClogged("d4","d7"));
     CHECK_FALSE(b.isColumnClogged("a1","a3"));
     CHECK_FALSE(b.isColumnClogged("a4","a6"));
     CHECK_FALSE(b.isColumnClogged("b1","b7"));
