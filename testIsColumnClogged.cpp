@@ -16,6 +16,7 @@ TEST_CASE("Is Column Clogged?", "[iscolumnclogged]")
         {
             const char& column = char(i+97);
             const char& row    = char(j+49);
+            
             coordinates.push_back(std::string(1,column)+std::string(1,row));
         }
 
