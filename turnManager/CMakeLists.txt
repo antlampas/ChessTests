@@ -1,1 +1,7 @@
+get_directory_property(MYDEFS COMPILE_DEFINITIONS)
+
+if("${MYDEFS}" MATCHES "TESTTURNMANAGER")
 add_executable(turnManagerTests)
+target_link_libraries(turnManagerTests PRIVATE Catch2::Catch2WithMain)
+target_link_libraries(turnManagerTests PUBLIC turnManager)
+endif()

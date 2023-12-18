@@ -2,22 +2,19 @@ find_package(Catch2 3 REQUIRED)
 
 set(TESTSMODULES "")
 
-if(DEFINED BOARDTEST)
+get_directory_property(MYDEFS COMPILE_DEFINITIONS)
+
+if("${MYDEFS}" MATCHES "TESTBOARD")
 add_subdirectory(board)
 set(TESTSMODULES "${TESTSMODULES} board")
 endif()
-
-if(DEFINED TIMERTEST)
+if("${MYDEFS}" MATCHES "TESTTIMER")
 add_subdirectory(timer)
 set(TESTSMODULES "${TESTSMODULES} timer")
 endif()
-
-if(DEFINED TURNMANAGERTEST)
+if("${MYDEFS}" MATCHES "TESTTURNMANAGER")
 add_subdirectory(turnManager)
 set(TESTSMODULES "${TESTSMODULES} turnManager")
 endif()
 
 message("${TESTSMODULES}")
-
-target_link_libraries(tests PRIVATE Catch2::Catch2WithMain)
-target_link_libraries(tests PUBLIC "${TESTSMODULES}")
