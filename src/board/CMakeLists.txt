@@ -1,6 +1,5 @@
 get_directory_property(MYDEFS COMPILE_DEFINITIONS)
 
-if("${MYDEFS}" MATCHES "TESTBOARD")
 add_executable(boardTests
                 testBoard.cpp
                 testBoardStatus.cpp
@@ -21,4 +20,3 @@ add_executable(boardTests
             )
 target_link_libraries(boardTests PRIVATE Catch2::Catch2WithMain)
 target_link_libraries(boardTests PUBLIC board)
-endif()
