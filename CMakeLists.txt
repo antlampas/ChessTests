@@ -1,6 +1,6 @@
 include(ExternalProject)
 
-find_package(Catch2 3 REQUIRED)
+#find_package(Catch2 3 REQUIRED)
 
 cmake_minimum_required(VERSION 3.15)
 
