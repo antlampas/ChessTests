@@ -8,10 +8,9 @@ units=""
 
 for flag in "${@:2}"
 do
-    units+=" -D${flag}"
+    units+=" ${flag}"
 done
 
-
 cd build
-cmake -DCMAKE_BUILD_TYPE=$1 ${units} ..
+cmake -DCMAKE_BUILD_TYPE=$1 -DUNITS="${units}" ..
 cd ..
