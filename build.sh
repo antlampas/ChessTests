@@ -6,11 +6,11 @@ fi
 
 units=""
 
-for flag in "${@:2}"
+for flag in "${@:3}"
 do
     units+=" ${flag}"
 done
 
 cd build
-cmake -DCMAKE_BUILD_TYPE=$1 -DUNITS="${units}" ..
+cmake -DCMAKE_BUILD_TYPE="${1}" -DVERSION="${2}" -DUNITS="${units}" ..
 cd ..
