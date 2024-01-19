@@ -12,5 +12,6 @@ do
 done
 
 cd build
-cmake -DCMAKE_BUILD_TYPE="${1}" -DVERSION="${2}" -DUNITS="${units}" ..
+# cmake -DCMAKE_BUILD_TYPE="${1}" -DVERSION="${2}" -DUNITS="${units}" .. && make
+cmake -DBUILD="${1}" -DVERSION="${2}" -DUNITS="${units}" .. && make
 cd ..

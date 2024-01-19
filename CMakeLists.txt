@@ -2,15 +2,13 @@ include(FetchContent)
 
 cmake_minimum_required(VERSION 3.15)
 
-project(ChessTests VERSION "${VERSION}" DESCRIPTION "Tests for FALPChess" HOMEPAGE_URL "https://github.com/antlampas/ChessTests" LANGUAGES "CXX")
-
 FetchContent_Declare(catch2 PREFIX "src" GIT_REPOSITORY "https://github.com/catchorg/Catch2.git" GIT_TAG "devel" GIT_PROGRESS true)
-FetchContent_Declare(chess  PREFIX "src" GIT_REPOSITORY "https://github.com/antlampas/Chess.git" GIT_TAG "main"  GIT_PROGRESS true)
+FetchContent_Declare(chess  PREFIX "src" GIT_REPOSITORY "https://github.com/antlampas/Chess.git" GIT_TAG "master"  GIT_PROGRESS true)
 
 FetchContent_MakeAvailable(catch2 chess)
 
 if("${CMAKE_BUILD_TYPE}" MATCHES "Debug")
-    add_definitions(-DDEBUG)
+add_definitions(-DDEBUG)
 endif()
 
 string(TOLOWER "${UNITS}" UNITS)
@@ -18,6 +16,10 @@ string(TOLOWER "${UNITS}" UNITS)
 string(FIND "${UNITS}" "board" BOARD)
 string(FIND "${UNITS}" "timer" TIMER)
 string(FIND "${UNITS}" "turnmanager" TURNMANAGER)
+
+set(CMAKE_BUILD_TYPE "${BUILD}")
+
+project(ChessTests VERSION "${VERSION}" DESCRIPTION "Tests for FALPChess" HOMEPAGE_URL "https://github.com/antlampas/ChessTests" LANGUAGES "CXX")
 
 if(BOARD GREATER -1)
     message("Testing board")
