@@ -1,11 +1,4 @@
-include(FetchContent)
-
 cmake_minimum_required(VERSION 3.15)
-
-FetchContent_Declare(catch2 PREFIX "src" GIT_REPOSITORY "https://github.com/catchorg/Catch2.git" GIT_TAG "devel" GIT_PROGRESS true)
-FetchContent_Declare(chess  PREFIX "src" GIT_REPOSITORY "https://github.com/antlampas/Chess.git" GIT_TAG "master"  GIT_PROGRESS true)
-
-FetchContent_MakeAvailable(catch2 chess)
 
 if("${CMAKE_BUILD_TYPE}" MATCHES "Debug")
 add_definitions(-DDEBUG)
@@ -16,8 +9,6 @@ string(TOLOWER "${UNITS}" UNITS)
 string(FIND "${UNITS}" "board" BOARD)
 string(FIND "${UNITS}" "timer" TIMER)
 string(FIND "${UNITS}" "turnmanager" TURNMANAGER)
-
-set(CMAKE_BUILD_TYPE "${BUILD}")
 
 project(ChessTests VERSION "${VERSION}" DESCRIPTION "Tests for FALPChess" HOMEPAGE_URL "https://github.com/antlampas/ChessTests" LANGUAGES "CXX")
 
@@ -36,6 +27,8 @@ if(TURNMANAGER GREATER -1)
     add_definitionS(-DTESTTURNMANAGER)
 endif(TURNMANAGER GREATER -1)
 
-include_directories(include)
+include_directories(Chess/include)
 
-add_subdirectory(src ${CMAKE_BUILD_TYPE})
+add_subdirectory(src    ${CMAKE_BUILD_TYPE})
+add_subdirectory(Catch2 ${CMAKE_BUILD_TYPE}/Catch2)
+add_subdirectory(Chess  ${CMAKE_BUILD_TYPE}/Chess)
