@@ -19,7 +19,7 @@ jobs:
     steps:
     - name:  update catch2 repository
       working-directory: ${{ github.workspace }}
-      run:   ls "${{ github.workspace }}" && git clone https://github.com/catchorg/Catch2.git
+      run:   ls .. && git clone https://github.com/catchorg/Catch2.git && ls "${{ github.workspace }}"
     - name:  update chess repository
       working-directory: ${{ github.workspace }}
       run:   ls "${{ github.workspace }}" && git clone https://github.com/antlampas/Chess.git && ls
