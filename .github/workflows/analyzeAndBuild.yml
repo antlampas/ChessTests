@@ -6,14 +6,6 @@ on:
       - '.github/**'
   workflow_dispatch:
 jobs:
-  update:
-    name: update
-    runs-on: 'ubuntu-latest'
-    steps:
-    - name: update catch2 repository
-      run: if [ -d "Catch2" ]; then cd Catch2 && git fetch && git pull; else git clone https://github.com/catchorg/Catch2.git; fi
-    - name: update chess repository
-      run: if [ -d "Chess" ]; then cd Chess && git fetch && git pull; else git clone https://github.com/antlampas/Chess.git; fi
   # analyze:
   #   name:            Analyze
   #   needs:           update
@@ -43,7 +35,6 @@ jobs:
   build-linux:
     name:    Build on linux
   #  needs:   analyze
-    needs:   update
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
@@ -53,6 +44,10 @@ jobs:
     env:
       units: "board"
     steps:
+    - name: update catch2 repository
+      run: if [ -d "Catch2" ]; then cd Catch2 && git fetch && git pull; else git clone https://github.com/catchorg/Catch2.git; fi
+    - name: update chess repository
+      run: if [ -d "Chess" ]; then cd Chess && git fetch && git pull; else git clone https://github.com/antlampas/Chess.git; fi
     - uses:  actions/checkout@v4
     - name:  Set reusable strings
       id:    strings
