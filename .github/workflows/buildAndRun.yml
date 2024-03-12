@@ -40,4 +40,4 @@ jobs:
       working-directory: ${{ steps.strings.outputs.build-output-dir }}
       run: ctest --build-config ${{ matrix.build_type }}
     - name: Run Tests
-      run: IFS=' ' read -r -a array <<< "$units" && for t in "${array[@]}"; do ${{ steps.strings.outputs.build-output-dir }}/${{ matrix.build_type }}/Tests/${t}; done
+      run: IFS=' ' read -r -a array <<< "$units" && for t in "${array[@]}"; do ${{ steps.strings.outputs.build-output-dir }}/${{ matrix.build_type }}/Tests/${t}/${t}Tests; done
