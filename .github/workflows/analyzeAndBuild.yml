@@ -18,11 +18,9 @@ jobs:
       units: "board"
     steps:
     - name:  update catch2 repository
-      working-directory: ${{ github.workspace }}
-      run:   ls .. && git clone https://github.com/catchorg/Catch2.git && ls "${{ github.workspace }}"
+      run:   pwd && ls && git clone https://github.com/catchorg/Catch2.git && ls "${{ github.workspace }}"
     - name:  update chess repository
-      working-directory: ${{ github.workspace }}
-      run:   ls "${{ github.workspace }}" && git clone https://github.com/antlampas/Chess.git && ls
+      run:   pwd && ls "${{ github.workspace }}" && git clone https://github.com/antlampas/Chess.git && pwd && ls
     - uses:  actions/checkout@v4
     - name:  Set reusable strings
       id:    strings
@@ -31,6 +29,7 @@ jobs:
              echo "build-output-dir=${{ github.workspace }}/build" >> "$GITHUB_OUTPUT"
     - name:  Configure CMake
       run:   >
+             pwd && ls ${{ github.workspace }} &&
              cmake -B ${{ steps.strings.outputs.build-output-dir }}
              -DCMAKE_CXX_COMPILER=${{ matrix.cpp_compiler }}
              -DCMAKE_BUILD_TYPE=${{ matrix.build_type }}
