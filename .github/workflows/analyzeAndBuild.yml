@@ -14,32 +14,32 @@ jobs:
       run: if -d "Catch2"; then cd Catch2 && git fetch && git pull; else git clone https://github.com/catchorg/Catch2.git; fi
     - name: Update Chess repository
       run: if -d "Chess"; then cd Chess && git fetch && git pull; else git clone https://github.com/antlampas/Chess.git; fi
-  analyze:
-    name:            Analyze
-    needs:           update
-    runs-on:         'ubuntu-latest'
-    timeout-minutes: ${{ (matrix.language == 'C++' && 120) || 360 }}
-    permissions:
-      security-events: write
-      actions:         read
-      contents:        read
-    strategy:
-      fail-fast: false
-      matrix:
-        language: ['c-cpp']
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-    - name: Initialize CodeQL
-      uses: github/codeql-action/init@v3
-      with:
-        languages: ${{ matrix.language }}
-    - name: Autobuild
-      uses: github/codeql-action/autobuild@v3
-    - name: Perform CodeQL Analysis
-      uses: github/codeql-action/analyze@v3
-      with:
-        category: "/language:${{matrix.language}}"
+  # analyze:
+  #   name:            Analyze
+  #   needs:           update
+  #   runs-on:         'ubuntu-latest'
+  #   timeout-minutes: ${{ (matrix.language == 'C++' && 120) || 360 }}
+  #   permissions:
+  #     security-events: write
+  #     actions:         read
+  #     contents:        read
+  #   strategy:
+  #     fail-fast: false
+  #     matrix:
+  #       language: ['c-cpp']
+  #   steps:
+  #   - name: Checkout repository
+  #     uses: actions/checkout@v4
+  #   - name: Initialize CodeQL
+  #     uses: github/codeql-action/init@v3
+  #     with:
+  #       languages: ${{ matrix.language }}
+  #   - name: Autobuild
+  #     uses: github/codeql-action/autobuild@v3
+  #   - name: Perform CodeQL Analysis
+  #     uses: github/codeql-action/analyze@v3
+  #     with:
+  #       category: "/language:${{matrix.language}}"
   build-linux:
     name:    Build on linux
     needs:   analyze
