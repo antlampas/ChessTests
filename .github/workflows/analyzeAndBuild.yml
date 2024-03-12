@@ -1,0 +1,72 @@
+name: "Analyze and build"
+on:
+  push:
+    branches:     "master"
+    paths-ignore:
+      - '.github/**'
+  workflow_dispatch:
+jobs:
+  update:
+    name: Update
+    runs-on: 'ubuntu-latest'
+    steps:
+    - name: Update Catch2 repository
+      run: if -d "Catch2"; then cd Catch2 && git fetch && git pull; else git clone https://github.com/catchorg/Catch2.git; fi
+    - name: Update Chess repository
+      run: if -d "Chess"; then cd Chess && git fetch && git pull; else git clone https://github.com/antlampas/Chess.git; fi
+  analyze:
+    name:            Analyze
+    needs:           update
+    runs-on:         'ubuntu-latest'
+    timeout-minutes: ${{ (matrix.language == 'C++' && 120) || 360 }}
+    permissions:
+      security-events: write
+      actions:         read
+      contents:        read
+    strategy:
+      fail-fast: false
+      matrix:
+        language: ['c-cpp']
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    - name: Initialize CodeQL
+      uses: github/codeql-action/init@v3
+      with:
+        languages: ${{ matrix.language }}
+    - name: Autobuild
+      uses: github/codeql-action/autobuild@v3
+    - name: Perform CodeQL Analysis
+      uses: github/codeql-action/analyze@v3
+      with:
+        category: "/language:${{matrix.language}}"
+  build-linux:
+    name:    Build on linux
+    needs:   analyze
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        build_type:   [Debug]
+        cpp_compiler: [g++,clang++]
+    env:
+      units: "board"
+    steps:
+    - uses:  actions/checkout@v4
+    - name:  Set reusable strings
+      id:    strings
+      shell: bash
+      run:   |
+             echo "build-output-dir=${{ github.workspace }}/build" >> "$GITHUB_OUTPUT"
+    - name:  Configure CMake
+      run:   >
+             cmake -B ${{ steps.strings.outputs.build-output-dir }}
+             -DCMAKE_CXX_COMPILER=${{ matrix.cpp_compiler }}
+             -DCMAKE_BUILD_TYPE=${{ matrix.build_type }}
+             -DUNITS="$units"
+             -S ${{ github.workspace }}
+    - name:  Build
+      run:   cmake --build ${{ steps.strings.outputs.build-output-dir }} --config ${{ matrix.build_type }}
+    - name: Test
+      working-directory: ${{ steps.strings.outputs.build-output-dir }}
+      run: ctest --build-config ${{ matrix.build_type }}
