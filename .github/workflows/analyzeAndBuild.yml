@@ -19,10 +19,10 @@ jobs:
     steps:
     - name:  update catch2 repository
       working-directory: ${{ github.workspace }}
-      run:   git clone https://github.com/catchorg/Catch2.git
+      run:   echo "${{ github.workspace }}" && git clone https://github.com/catchorg/Catch2.git
     - name:  update chess repository
       working-directory: ${{ github.workspace }}
-      run:   git clone https://github.com/antlampas/Chess.git
+      run:   echo "${{ github.workspace }}" && git clone https://github.com/antlampas/Chess.git
     - uses:  actions/checkout@v4
     - name:  Set reusable strings
       id:    strings
