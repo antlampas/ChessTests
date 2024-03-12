@@ -17,10 +17,10 @@ jobs:
     env:
       units: "board"
     steps:
-    - name: update catch2 repository
-      run: git clone https://github.com/catchorg/Catch2.git
-    - name: update chess repository
-      run: git clone https://github.com/antlampas/Chess.git
+    - name:  update catch2 repository
+      run:   git clone https://github.com/catchorg/Catch2.git
+    - name:  update chess repository
+      run:   git clone https://github.com/antlampas/Chess.git
     - uses:  actions/checkout@v4
     - name:  Set reusable strings
       id:    strings
@@ -36,6 +36,6 @@ jobs:
              -S ${{ github.workspace }}
     - name:  Build
       run:   cmake --build ${{ steps.strings.outputs.build-output-dir }} --config ${{ matrix.build_type }}
-    - name: Test
+    - name:  Test
       working-directory: ${{ steps.strings.outputs.build-output-dir }}
       run: ctest --build-config ${{ matrix.build_type }}
