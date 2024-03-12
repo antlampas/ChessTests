@@ -1,4 +1,4 @@
-get_directory_property(MYDEFS COMPILE_DEFINITIONS)
+#get_directory_property(MYDEFS COMPILE_DEFINITIONS)
 
 add_executable(boardTests
                 testBoard.cpp
