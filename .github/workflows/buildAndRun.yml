@@ -1,4 +1,4 @@
-name: "Analyze and build"
+name: "Build and run"
 on:
   push:
     branches:     "master"
@@ -39,3 +39,5 @@ jobs:
     - name:  Test
       working-directory: ${{ steps.strings.outputs.build-output-dir }}
       run: ctest --build-config ${{ matrix.build_type }}
+    - name: Run Tests
+      run: ${{ steps.strings.outputs.build-output-dir }}/Tests/{units}
