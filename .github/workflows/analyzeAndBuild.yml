@@ -7,13 +7,13 @@ on:
   workflow_dispatch:
 jobs:
   update:
-    name: Update
+    name: update
     runs-on: 'ubuntu-latest'
     steps:
-    - name: Update Catch2 repository
-      run: if -d "Catch2"; then cd Catch2 && git fetch && git pull; else git clone https://github.com/catchorg/Catch2.git; fi
-    - name: Update Chess repository
-      run: if -d "Chess"; then cd Chess && git fetch && git pull; else git clone https://github.com/antlampas/Chess.git; fi
+    - name: update catch2 repository
+      run: if [ -d "Catch2" ]; then cd Catch2 && git fetch && git pull; else git clone https://github.com/catchorg/Catch2.git; fi
+    - name: update chess repository
+      run: if [ -d "Chess" ]; then cd Chess && git fetch && git pull; else git clone https://github.com/antlampas/Chess.git; fi
   # analyze:
   #   name:            Analyze
   #   needs:           update
@@ -42,7 +42,8 @@ jobs:
   #       category: "/language:${{matrix.language}}"
   build-linux:
     name:    Build on linux
-    needs:   analyze
+  #  needs:   analyze
+    needs:   update
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
