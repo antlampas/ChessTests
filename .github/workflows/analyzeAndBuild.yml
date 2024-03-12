@@ -29,7 +29,6 @@ jobs:
       run:   git clone https://github.com/antlampas/Chess.git
     - name:  Configure CMake
       run:   >
-             ls &&
              cmake -B ${{ steps.strings.outputs.build-output-dir }}
              -DCMAKE_CXX_COMPILER=${{ matrix.cpp_compiler }}
              -DCMAKE_BUILD_TYPE=${{ matrix.build_type }}
