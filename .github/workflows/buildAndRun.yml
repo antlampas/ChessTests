@@ -10,7 +10,7 @@ jobs:
     name:    Build on linux
     runs-on: ubuntu-latest
     env:
-      units: "board"
+      units:        board
       build_type:   Debug
       cpp_compiler: clang++
     steps:
@@ -44,6 +44,7 @@ jobs:
     outputs:
       build-path: ${{ steps.strings.outputs.build-output-dir }}
       build-type: ${{ env.build_type }}
+      units:      ${{ env.units }}
   run-tests:
     name: Run tests
     runs-on: ubuntu-latest
@@ -54,4 +55,4 @@ jobs:
       with:
         name: built
     - name: Run Tests
-      run:  IFS=' ' read -r -a array <<< "$units" && for t in "${array[@]}"; do ${{ needs.build-linux.outputs.build-type }}/${{ needs.build-linux.outputs.build_type }}/Tests/${t}/${t}Tests; done
+      run:  IFS=' ' read -r -a array <<< ${{ needs.build-linux.outputs.build-type }} && for t in "${array[@]}"; do ${{ needs.build-linux.outputs.build-type }}Tests/${t}/${t}Tests; done
