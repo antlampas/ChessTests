@@ -48,6 +48,7 @@ jobs:
       build-path: ${{ steps.strings.outputs.build-output-dir }}
       build-type: ${{ matrix.build_type }}
   run-tests:
+    name: Run tests
     runs-on: ubuntu-latest
     needs: build-linux
     steps:
