@@ -55,4 +55,4 @@ jobs:
       with:
         name: built
     - name: Run Tests
-      run:  IFS=' ' read -r -a array <<< ${{ needs.build-linux.outputs.build-type }} && for t in "${array[@]}"; do ${{ needs.build-linux.outputs.build-type }}Tests/${t}/${t}Tests; done
+      run:  IFS=' ' read -r -a array <<< "${{ needs.build-linux.outputs.units }}" && for t in "${array[@]}"; do ${{ needs.build-linux.outputs.build-type }}Tests/${t}/${t}Tests; done
