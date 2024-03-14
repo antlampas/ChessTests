@@ -3,3 +3,5 @@ get_directory_property(MYDEFS COMPILE_DEFINITIONS)
 add_executable(turnManagerTests)
 target_link_libraries(turnManagerTests PRIVATE Catch2::Catch2WithMain)
 target_link_libraries(turnManagerTests PUBLIC turnManager)
+
+add_test(NAME turnManagerTests COMMAND turnManagerTests)

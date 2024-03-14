@@ -20,3 +20,5 @@ add_executable(boardTests
             )
 target_link_libraries(boardTests PRIVATE Catch2::Catch2WithMain)
 target_link_libraries(boardTests PUBLIC board)
+
+add_test(NAME boardTests COMMAND boardTests)
