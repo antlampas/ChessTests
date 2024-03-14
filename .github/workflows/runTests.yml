@@ -14,8 +14,8 @@ jobs:
     strategy:
       max-parallel: 1
       matrix:
-        build_type:   [Debug]
-        cpp_compiler: [g++,clang++]
+        cpp_compiler: [clang++,g++]
+        build_type:   [Debug,Release]
     steps:
     - uses:  actions/checkout@v4
     - name:  Set reusable strings
