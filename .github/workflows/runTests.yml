@@ -13,6 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
+        max-parallel: 1
         build_type:   [Debug]
         cpp_compiler: [g++,clang++]
     steps:
