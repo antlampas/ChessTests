@@ -5,14 +5,16 @@ on:
     paths-ignore:
       - '.github/**'
   workflow_dispatch:
+env:
+  units: "board"
 jobs:
   build-linux:
     name:    Test on linux
     runs-on: ubuntu-latest
-    matrix:
-      units:        "board"
-      build_type:   [Debug]
-      cpp_compiler: [g++,clang++]
+    strategy:
+      matrix:
+        build_type:   [Debug]
+        cpp_compiler: [g++,clang++]
     steps:
     - uses:  actions/checkout@v4
     - name:  Set reusable strings
