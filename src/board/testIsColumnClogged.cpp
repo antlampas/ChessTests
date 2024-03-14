@@ -21,8 +21,7 @@ TEST_CASE("Is Column Clogged?", "[iscolumnclogged]")
     board b(boardMap);
     
     boardMapType currentBoard = b.boardStatus();
-    std::for_each(currentBoard.rbegin(),currentBoard.rend(),[](columnType column){std::for_each(column.begin(),column.end(),[](squareType square){square!="e" ? std::cout << square << " " : std::cout << square << "  ";}); std::cout << std::endl;});
-
+    
     CHECK(b.isColumnClogged("a1","a7"));
     CHECK(b.isColumnClogged("d1","d7"));
     CHECK_FALSE(b.isColumnClogged("a1","a4"));

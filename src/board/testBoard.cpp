@@ -12,8 +12,18 @@ TEST_CASE("Board constructor", "[boardconstructor]")
     std::random_device r;
     std::mt19937 g(r());
 
-    std::vector<std::string> pieces      {"wp","wp","wp","wp","wp","wp","wp","wp","wr","wr","wn","wn","wb","wb","wk","wq","bp","bp","bp","bp","bp","bp","bp","bp","br","br","bn","bn","bb","bb","bk","bq"};
-    std::vector<std::string> wrongPieces {"wp","wp","wp","wp","wp","wp","wp","wp","wr","wr","wn","wn","wb","wb","wk","wq","bp","bp","bp","bp","bp","bp","bp","bp","br","br","bn","bn","bb","bb","bk","df"};
+    std::vector<std::string> pieces      {};
+    std::vector<std::string> wrongPieces {};
+    
+    for(int i=0;i<7;i++) pieces.push_back("wp");
+    pieces.insert(pieces.end(),{"wr","wr","wn","wn","wb","wb","wk","wq"});
+    for(int i=0;i<7;i++) pieces.push_back("bp");
+    pieces.insert(pieces.end(),{"br","br","bn","bn","bb","bb","bk","bq"});
+
+    for(int i=0;i<7;i++) wrongPieces.push_back("wp");
+    wrongPieces.insert(wrongPieces.end(),{"wr","wr","wn","wn","wb","wb","wk","wq"});
+    for(int i=0;i<7;i++) wrongPieces.push_back("bp");
+    wrongPieces.insert(wrongPieces.end(),{"br","br","bn","bn","bb","bb","bk","bq"});
 
     std::shuffle(pieces.begin(),pieces.end(),g);
 
@@ -35,20 +45,8 @@ TEST_CASE("Board constructor", "[boardconstructor]")
     board d(randomBoard);
 
     boardMapType currentBoard = b.boardStatus();
-
-    std::for_each(currentBoard.rbegin(),currentBoard.rend(),[](columnType column){std::for_each(column.begin(),column.end(),[](squareType square){square!="e" ? std::cout << square << " " : std::cout << square << "  ";}); std::cout << std::endl;});
-    
-    std::cout << std::endl << std::endl;
-    
     currentBoard = c.boardStatus();
-    
-    std::for_each(currentBoard.rbegin(),currentBoard.rend(),[](columnType column){std::for_each(column.begin(),column.end(),[](squareType square){square!="e" ? std::cout << square << " " : std::cout << square << "  ";}); std::cout << std::endl;});
-    
-    std::cout << std::endl << std::endl;
-
     currentBoard = d.boardStatus();
-    
-    std::for_each(currentBoard.rbegin(),currentBoard.rend(),[](columnType column){std::for_each(column.begin(),column.end(),[](squareType square){square!="e" ? std::cout << square << " " : std::cout << square << "  ";}); std::cout << std::endl;});
     
     CHECK(true);
 }

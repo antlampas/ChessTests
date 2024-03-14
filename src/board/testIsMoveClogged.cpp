@@ -21,7 +21,6 @@ TEST_CASE("Is Move Clogged?", "[ismoveclogged]")
     board b(boardMap);
     
     boardMapType currentBoard = b.boardStatus();
-    std::for_each(currentBoard.rbegin(),currentBoard.rend(),[](columnType column){std::for_each(column.begin(),column.end(),[](squareType square){square!="e" ? std::cout << square << " " : std::cout << square << "  ";}); std::cout << std::endl;});
     
     CHECK_FALSE(b.isMoveClogged("c3","c8"));
     CHECK_FALSE(b.isMoveClogged("f6","f7"));

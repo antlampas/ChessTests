@@ -21,8 +21,7 @@ TEST_CASE("Is Front Clogged?", "[isfrontclogged]")
     board b(boardMap);
     
     boardMapType currentBoard = b.boardStatus();
-    std::for_each(currentBoard.rbegin(),currentBoard.rend(),[](columnType column){std::for_each(column.begin(),column.end(),[](squareType square){square!="e" ? std::cout << square << " " : std::cout << square << "  ";}); std::cout << std::endl;});
-
+   
     CHECK(b.isFrontClogged("c2","c3"));
     CHECK(b.isFrontClogged("h7","h8"));
     CHECK(b.isFrontClogged("c5","c6"));
