@@ -1,6 +1,10 @@
 cmake_minimum_required(VERSION 3.15)
 
-project(ChessTests VERSION "${VERSION}" DESCRIPTION "Tests for FALPChess" HOMEPAGE_URL "https://github.com/antlampas/ChessTests" LANGUAGES "CXX")
+project(ChessTests
+        VERSION "${VERSION}"
+        DESCRIPTION "Tests for FALPChess"
+        HOMEPAGE_URL "https://github.com/antlampas/ChessTests"
+        LANGUAGES "CXX")
 
 include(CTest)
 
