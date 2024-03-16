@@ -5,6 +5,7 @@
 #include <string>
 #include <random>
 #include <algorithm>
+
 #include "board.hpp"
 
 TEST_CASE("Board constructor", "[boardconstructor]")
