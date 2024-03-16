@@ -10,8 +10,7 @@
 
 TEST_CASE("Board constructor", "[boardconstructor]")
 {
-    std::random_device r;
-    std::mt19937 g(r());
+    auto rng = std::default_random_engine {};
 
     std::vector<std::string> pieces      {};
     std::vector<std::string> wrongPieces {};
@@ -26,7 +25,7 @@ TEST_CASE("Board constructor", "[boardconstructor]")
     for(int i=0;i<7;i++) wrongPieces.push_back("bp");
     wrongPieces.insert(wrongPieces.end(),{"br","br","bn","bn","bb","bb","bk","bq"});
 
-    std::shuffle(pieces.begin(),pieces.end(),g);
+    std::shuffle(pieces.begin(),pieces.end(),rng);
     
     boardMapType orderedBoard = boardMapType(8,columnType(8,squareType("e")));
     boardMapType randomBoard  = boardMapType(8,columnType(8,squareType("e")));
