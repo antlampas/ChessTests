@@ -53,8 +53,8 @@ TEST_CASE("Board constructor", "[boardconstructor]")
 
     board c(randomBoard);
 
-    CHECK((b.boardStatus) == (orderedBoard));
-    CHECK((c.boardStatus) == (randomBoard));
+    CHECK((b.boardStatus()) == (orderedBoard));
+    CHECK((c.boardStatus()) == (randomBoard));
     
     randomBoard.clear();
     randomBoard = boardMapType(8,columnType(8,squareType("e")));
