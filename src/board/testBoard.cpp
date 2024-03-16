@@ -52,7 +52,10 @@ TEST_CASE("Board constructor", "[boardconstructor]")
         randomBoard.at(r()%8).at(r()%8) = p;
 
     board c(randomBoard);
-    CHECK(b.boardStatus)
+
+    CHECK(b.boardStatus == orderedBoard);
+    CHECK(c.boardStatus == randomBoard);
+    
     randomBoard.clear();
     randomBoard = boardMapType(8,columnType(8,squareType("e")));
 
