@@ -39,7 +39,7 @@ TEST_CASE("Board constructor", "[boardconstructor]")
     }
     
     orderedBoard.at(0) = std::vector<std::string>{"wr","wn","wb","wk","wq","wb","wn","wr"};
-    orderedBoard.at(0) = std::vector<std::string>{"br","bn","bb","bk","bq","bb","bn","br"};
+    orderedBoard.at(7) = std::vector<std::string>{"br","bn","bb","bk","bq","bb","bn","br"};
 
     for(auto row: orderedBoard)
     {
