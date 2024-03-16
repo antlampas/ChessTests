@@ -26,8 +26,6 @@ TEST_CASE("Board constructor", "[boardconstructor]")
     wrongPieces.insert(wrongPieces.end(),{"br","br","bn","bn","bb","bb","bk","bq"});
 
     std::shuffle(pieces.begin(),pieces.end(),g);
-
-    board b;
     
     boardMapType orderedBoard = boardMapType(8,columnType(8,squareType("e")));
     boardMapType randomBoard  = boardMapType(8,columnType(8,squareType("e")));
@@ -38,8 +36,8 @@ TEST_CASE("Board constructor", "[boardconstructor]")
         orderedBoard.at(6).at(i) = "bp";
     }
     
-    orderedBoard.at(0) = std::vector<std::string>{"wr","wn","wb","wk","wq","wb","wn","wr"};
-    orderedBoard.at(7) = std::vector<std::string>{"br","bn","bb","bk","bq","bb","bn","br"};
+    orderedBoard.at(0) = std::vector<std::string>{"wr","wn","wb","wq","wk","wb","wn","wr"};
+    orderedBoard.at(7) = std::vector<std::string>{"br","bn","bb","bq","bk","bb","bn","br"};
 
     for(auto row: orderedBoard)
     {
@@ -50,7 +48,8 @@ TEST_CASE("Board constructor", "[boardconstructor]")
 
     for(auto p: pieces)
         randomBoard.at(r()%8).at(r()%8) = p;
-
+    
+    board b;
     board c(randomBoard);
 
     CHECK((b.boardStatus()) == (orderedBoard));
