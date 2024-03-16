@@ -44,7 +44,7 @@ TEST_CASE("Board constructor", "[boardconstructor]")
     for(auto row: orderedBoard)
     {
         for(auto column: row)
-            std::out << column << " ";
+            std::cout << column << " ";
         std::cout << std::endl;
     }
 
