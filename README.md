@@ -1,4 +1,4 @@
-![Build](https://github.com/antlampas/ChessTests/actions/workflows/buildAndRun.yml/badge.svg)
+![Build](https://github.com/antlampas/ChessTests/actions/workflows/tunTests.yml/badge.svg)
 
 C++ unit testing excercises with Catch2
 
