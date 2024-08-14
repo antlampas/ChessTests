@@ -7,6 +7,21 @@ project(ChessTests
         LANGUAGES "CXX")
 
 include(CTest)
+include(FetchContent)
+
+FetchContent_Declare(
+  chess
+  GIT_REPOSITORY https://github.com/antlampas/Chess.git
+  GIT_BRANCH     master
+)
+
+FetchContent_Declare(
+  Catch2
+  GIT_REPOSITORY https://github.com/catchorg/Catch2.git
+  GIT_TAG        v3.6.0
+)
+
+FetchContent_MakeAvailable(chess Catch2)
 
 if("${CMAKE_BUILD_TYPE}" MATCHES "Debug")
 add_definitions(-DDEBUG)
