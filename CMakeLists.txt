@@ -48,8 +48,6 @@ message("Testing board")
     add_definitionS(-DTESTTURNMANAGER)
     endif(TURNMANAGER GREATER -1)
     
-include_directories(Chess/include)
+include_directories(${CMAKE_CURRENT_BINARY_DIR}/_deps/chess-src/include)
 
-add_subdirectory(Catch2 ${CMAKE_BUILD_TYPE}/Catch2)
-add_subdirectory(Chess  ${CMAKE_BUILD_TYPE}/Chess)
 add_subdirectory(src    ${CMAKE_BUILD_TYPE}/Tests)
