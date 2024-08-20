@@ -60,9 +60,9 @@ TEST_CASE("List Valid Moves", "[listvalidmoves]")
                 char piece {p.at(1)};
 
                 if(!(team == 'w' && piece == 'p' && row == "8") && !(team == 'b' && piece == 'p' && row == "1"))
-                    CHECK(!validMoves.empty());
+                    CHECK(validMoves.empty() == false);
                 else
-                    CHECK(validMoves.empty());
+                    CHECK(validMoves.empty() == true);
             }
         }
     }
