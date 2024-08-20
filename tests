@@ -1,0 +1,3776 @@
+Randomness seeded to: 1144390545
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+boardTests is a Catch2 v3.6.0 host application.
+Run with -? for options
+
+-------------------------------------------------------------------------------
+List Valid Moves
+-------------------------------------------------------------------------------
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:11
+...............................................................................
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+/run/media/francesco/58dfd4eb-16c7-44a8-a0f4-b58085efd7aa/Varie/Sorgenti/miei/Progetti C++/ChessTests/src/board/testListValidMoves.cpp:31: FAILED:
+  CHECK( !validMoves.empty() )
+with expansion:
+  false
+
+===============================================================================
+test cases:   14 |  13 passed |   1 failed
+assertions: 1151 | 399 passed | 752 failed
+
