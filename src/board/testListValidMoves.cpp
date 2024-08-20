@@ -5,6 +5,7 @@
 #include <vector>
 #include <string>
 #include <utility>
+#include <algorithm>
 #include "board.hpp"
 
 TEST_CASE("List Valid Moves", "[listvalidmoves]")
