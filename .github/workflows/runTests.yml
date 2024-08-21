@@ -10,9 +10,9 @@ on:
 env:
     units: "board"
 jobs:
-    build-linux:
-      name:    Test on linux
-      runs-on: ubuntu-latest
+    build:
+      name:    Test
+      runs-on: [ubuntu-latest,macos-latest,windows-latest]
       strategy:
         fail-fast: true
         max-parallel: 1
