@@ -8,7 +8,8 @@ on:
       - 'README.md'
   workflow_dispatch:
 env:
-  units: [board]
+  matrix:
+    units: [board]
 jobs:
   build-linux:
     name:    Test on linux
